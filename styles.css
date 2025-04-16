@@ -140,3 +140,8 @@ h2 {
 .form-control {
     background-color: #F1EDEF;
 }
+.opcoes-acessibilidade{
+    margin-top:10px;
+    display: flex;
+    flex-direction: column;
+}
